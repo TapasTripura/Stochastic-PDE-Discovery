@@ -10,7 +10,7 @@ Discovering stochastic partial differential equations from limited data using va
 
 ## The data associated with the paper can be accessed from the following link:
 > [!NOTE]
-> The codes for data generation and prediction are provided in the corresponding folders.
+> The codes for data generation and prediction are provided in the corresponding folders. The data used in the paper can be download from following link.
 > + [Data_Link](https://drive.google.com/drive/folders/1bs6werCQUhS30EDK46VtpyRQnlgh0F_i?usp=sharing)
 
 ### File description
@@ -21,6 +21,7 @@ Discovering stochastic partial differential equations from limited data using va
   + `5) Gibbs_1D_Stochastic_Heat.py` Gibss sampler for discovering 1D Stochastic Heat PDE.
   + `6) Gibbs_1D_Nagumo_Equation.py` Gibss sampler for discovering 1D Stochastic Nagumo PDE.
   + `7) SPDE.py` contains the utility functions.
+  + ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 # BibTex
 If you take help of our codes, please cite us at,
