@@ -4,6 +4,9 @@ Discovering stochastic partial differential equations from limited data using va
 ## The paper can be accssed from the following link:
 > + [Paper Link] (https://arxiv.org/abs/2306.15873)
 
+![Book logo](/AllenCahn/images/Allencahn_identification.pdf)
+
+
 ## The data associated with the paper can be accessed from the following link:
 > + [Data_Link](https://drive.google.com/drive/folders/1bs6werCQUhS30EDK46VtpyRQnlgh0F_i?usp=sharing)
 
