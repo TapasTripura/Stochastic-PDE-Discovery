@@ -14,14 +14,13 @@ Discovering stochastic partial differential equations from limited data using va
 > + [Data_Link](https://drive.google.com/drive/folders/1bs6werCQUhS30EDK46VtpyRQnlgh0F_i?usp=sharing)
 
 ### File description
-  + `1) 1D_Allen_Cahn.ipynb` performs discovery of `#0969DA 1D Stochastic Allen Cahn PDE` using Variational Bayes.
+  + `1) 1D_Allen_Cahn.ipynb` performs discovery of {\color{blue}1D Stochastic Allen Cahn PDE} using Variational Bayes.
   + `2) 1D_Stochastic_Heat.ipynb` performs discovery of 1D Stochastic Heat PDE using Variational Bayes.
   + `3) 1D_Nagumo_Equation.ipynb` performs discovery of 1D Stochastic Nagumo PDE using Variational Bayes.
   + `4) Gibbs_1D_Allen_Cahn.py` Gibbs sampler for discovering 1D Stochastic Allen Cahn PDE.
   + `5) Gibbs_1D_Stochastic_Heat.py` Gibss sampler for discovering 1D Stochastic Heat PDE.
   + `6) Gibbs_1D_Nagumo_Equation.py` Gibss sampler for discovering 1D Stochastic Nagumo PDE.
   + `7) SPDE.py` contains the utility functions.
-  + ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 # BibTex
 If you take help of our codes, please cite us at,
