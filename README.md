@@ -23,7 +23,7 @@ Discovering stochastic partial differential equations from limited data using va
   + `7) SPDE.py` contains the utility functions.
 
 # BibTex
-If you take help of our codes, please cite us at,
+Cite us at,
 ```
 @article{mathpati2023discovering,
   title={Discovering stochastic partial differential equations from limited data using variational Bayes inference},
